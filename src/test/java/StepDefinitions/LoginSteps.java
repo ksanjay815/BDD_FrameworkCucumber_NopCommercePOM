@@ -1,5 +1,7 @@
 package StepDefinitions;
 
+import org.apache.log4j.Logger;
+
 import Base.BaseTest;
 import Pages.AddcustomerPage;
 import Pages.LoginPage;
