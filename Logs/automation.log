@@ -237,3 +237,189 @@
 2023-12-29 03:36:42,487  INFO [main] nopCommerce:45 - entering username & password
 2023-12-29 03:36:43,759  INFO [main] nopCommerce:53 - login successful
 2023-12-29 03:36:50,266  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 03:58:28,750  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 03:58:32,950  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 03:58:32,975  INFO [main] nopCommerce:39 - opening url
+2023-12-29 03:58:34,857  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 03:58:37,543  INFO [main] nopCommerce:53 - login successful
+2023-12-29 03:58:48,341  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 03:58:48,359  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 03:58:50,471  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 03:58:50,473  INFO [main] nopCommerce:39 - opening url
+2023-12-29 03:58:51,938  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 03:58:54,584  INFO [main] nopCommerce:53 - login successful
+2023-12-29 03:59:03,768  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 03:59:03,781  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 03:59:05,972  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 03:59:05,974  INFO [main] nopCommerce:39 - opening url
+2023-12-29 03:59:07,234  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 03:59:08,170  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:00:02,504  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:07:25,272  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:07:30,561  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:07:30,604  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:07:32,082  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:07:34,288  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:07:36,519  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:07:40,297  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:07:40,327  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:07:41,080  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:07:43,111  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:07:44,246  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:07:44,262  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:07:46,355  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:07:46,357  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:07:47,409  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:07:50,152  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:07:52,503  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:07:52,516  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:07:54,832  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:07:54,834  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:07:56,324  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:07:58,321  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:07:59,191  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:07:59,204  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:08:01,242  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:08:01,244  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:08:02,512  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:08:04,113  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:08:07,302  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:08:07,318  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:08:09,309  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:08:09,311  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:08:10,254  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:08:10,605  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:08:11,506  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:08:17,941  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:36:30,831  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:36:34,164  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:36:34,198  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:36:35,492  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:36:37,462  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:36:46,787  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:36:46,803  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:36:48,962  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:36:48,964  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:36:50,451  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:36:54,268  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:37:03,359  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:37:03,369  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:37:05,483  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:37:05,489  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:37:06,833  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:37:07,845  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:37:13,868  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:49:59,989  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:50:02,828  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:50:02,853  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:50:04,487  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:50:07,130  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:50:16,054  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:50:16,314  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:50:18,403  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:50:18,407  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:50:19,697  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:50:21,679  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:50:30,657  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 04:50:30,889  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 04:50:32,969  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 04:50:32,971  INFO [main] nopCommerce:39 - opening url
+2023-12-29 04:50:34,325  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 04:50:35,286  INFO [main] nopCommerce:53 - login successful
+2023-12-29 04:50:39,739  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:04:33,220  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:04:35,932  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:04:35,956  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:04:37,343  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:04:38,325  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:04:42,714  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:07:04,625  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:07:07,333  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:07:07,364  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:07:08,961  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:07:12,520  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:07:21,826  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:07:21,851  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:07:24,011  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:07:24,014  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:07:24,826  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:07:26,900  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:07:35,320  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:07:35,331  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:07:37,385  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:07:37,387  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:07:38,753  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:07:39,623  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:07:43,774  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:09:07,172  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:09:09,900  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:09:09,929  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:09:11,411  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:09:13,517  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:09:22,625  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:09:22,651  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:09:24,680  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:09:24,683  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:09:26,139  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:09:28,430  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:09:37,383  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:09:37,399  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:09:39,462  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:09:39,465  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:09:41,013  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:09:42,044  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:09:46,546  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:12:36,244  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:12:38,708  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:12:38,730  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:12:40,145  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:12:42,128  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:13:03,286  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:13:03,303  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:13:05,348  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:13:05,351  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:13:06,756  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:13:08,685  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:13:20,096  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:13:20,111  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:13:22,202  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:13:22,205  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:13:22,894  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:13:24,808  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:13:35,610  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:20:47,701  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:20:50,409  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:20:50,432  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:20:51,904  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:20:53,828  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:21:14,816  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:21:14,834  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:21:16,901  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:21:16,904  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:21:18,233  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:21:20,183  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:21:31,814  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:21:31,838  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:21:33,997  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:21:34,000  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:21:35,579  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:21:37,500  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:21:49,136  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:21:49,169  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:21:51,247  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:21:51,249  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:21:52,729  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:21:55,363  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:22:04,383  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:22:04,403  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:22:06,494  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:22:06,495  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:22:07,258  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:22:09,172  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:22:17,655  INFO [main] nopCommerce:36 - closing browser
+2023-12-29 05:22:17,669  INFO [main] nopCommerce:28 - opening browser
+2023-12-29 05:22:19,680  INFO [main] nopCommerce:33 -  browser launched successfully
+2023-12-29 05:22:19,682  INFO [main] nopCommerce:39 - opening url
+2023-12-29 05:22:21,061  INFO [main] nopCommerce:45 - entering username & password
+2023-12-29 05:22:22,009  INFO [main] nopCommerce:53 - login successful
+2023-12-29 05:22:26,265  INFO [main] nopCommerce:36 - closing browser
