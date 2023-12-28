@@ -18,23 +18,9 @@ public class LoginSteps extends BaseTest {
 	}
 
 	public LoginPage lp;
-	public AddcustomerPage addCust;
-	public SearchCustomerPage searchCust;
-
-	@Before
-	public void setup() throws Throwable {
-		logger.info("opening browser");
-		initialization();
-		lp = new LoginPage(driver);
-
-	}
-
-	@After
-	public void teardown() {
-		logger.info("closing browser");
-		driver.quit();
-
-	}
+	
+	
+	
 
 	
 
@@ -47,6 +33,7 @@ public class LoginSteps extends BaseTest {
 
 	@When("User opens URL {string}")
 	public void user_opens_url(String url) {
+		lp = new LoginPage(driver);
 		logger.info("opening url");
 		driver.get(url);
 	}

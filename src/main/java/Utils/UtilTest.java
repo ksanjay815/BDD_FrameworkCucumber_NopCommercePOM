@@ -96,7 +96,7 @@ public class UtilTest extends BaseTest {
 
 		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		String dest = System.getProperty("user.dir");
-		FileUtils.copyFile(src, new File(dest + "/EmpireScreenshots/" + System.currentTimeMillis() + ".png"));
+		FileUtils.copyFile(src, new File(dest + "/MyScreenshots/" + System.currentTimeMillis() + ".png"));
 	}
 
 	public static void ScrolldowntoEnd() {
