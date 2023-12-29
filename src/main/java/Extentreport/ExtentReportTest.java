@@ -25,7 +25,7 @@ public class ExtentReportTest  implements IReporter {
 	
 	//generateReport always create this method to generate reports
 	public void generateReport(List<XmlSuite> xmlSuites, List<ISuite> suites, String outputDirectory) {
-		extent = new ExtentReports(outputDirectory + File.separator + "EmpireExtent.html", true);
+		extent = new ExtentReports(outputDirectory + File.separator + "MyExtentReport.html", true);
 
 		for (ISuite suite : suites) {
 			Map<String, ISuiteResult> result = suite.getResults();

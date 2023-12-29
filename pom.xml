@@ -1,4 +1,6 @@
-<project>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>Cucumber_Project_BDD</groupId>
 	<artifactId>BDD_Cucumber_nop_Commerce</artifactId>
@@ -9,64 +11,52 @@
 	<name>BDD_Cucumber_nop_Commerce</name>
 	<url>http://maven.apache.org</url>
 	<!--**************************************************************************** -->
-	
+
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
-	
+
 	<build>
-		  <pluginManagement>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.11.0</version>
-			</plugin>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.11.0</version>
+				</plugin>
+				
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.2.1</version>
+					<configuration>
+						<suiteXmlFiles>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
+							<!-- suitexmlfile is used to select the xml file to
+							be run
+							also we can run multiple testng.xml files-->
+						</suiteXmlFiles>
+					</configuration>
+				</plugin>
+				<!--		
+	This plugin is used to run Junit test
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.1.2</version>
+				</plugin>
+				-->
 
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-surefire-plugin</artifactId>
-				<version>3.1.2</version>
-			</plugin>
-
-			<!--
-			https://mvnrepository.com/artifact/net.masterthought/maven-cucumber-reporting
-		
-			<plugin>
-				<groupId>net.masterthought</groupId>
-				<artifactId>maven-cucumber-reporting</artifactId>
-				<version>2.8.0</version>
-				<executions>
-					<execution>
-						<id>execution</id>
-						<phase>verify</phase>
-						<goals>
-							<goal>generate</goal>
-						</goals>
-						<configuration>
-
-							<projectName>BDD_Cucumber_nop_Commerce</projectName>
-
-
-							<outputDirectory>
-								${project.build.directory}/cucumber-report-html</outputDirectory>
-							<cucumberOutput>
-								${project.build.directory}/cucumber.json</cucumberOutput>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>	 
-			-->
-		</plugins>
+			</plugins>
 		</pluginManagement>
 	</build>
 
 	<dependencies>
 
-<!--
+		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -74,7 +64,7 @@
 			<version>4.15.0</version>
 		</dependency>
 
-<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 		<dependency>
 			<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-java</artifactId>
@@ -87,6 +77,13 @@
 			<artifactId>cucumber-junit</artifactId>
 			<version>7.14.0</version>
 			<scope>compile</scope>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-testng</artifactId>
+			<version>7.15.0</version>
 		</dependency>
 
 		<dependency>
@@ -125,7 +122,7 @@
 			<version>3.12.0</version>
 		</dependency>
 
-<!--
+		<!--
 		https://mvnrepository.com/artifact/com.aventstack/extentreports-cucumber4-adapter -->
 		<dependency>
 			<groupId>tech.grasshopper</groupId>
@@ -140,7 +137,7 @@
 			<artifactId>maven-cucumber-reporting</artifactId>
 			<version>5.7.7</version>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 		<dependency>
 			<groupId>junit</groupId>
@@ -148,14 +145,14 @@
 			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
-      
-      <dependency>
-         <groupId>org.apache.maven</groupId>
-         <artifactId>maven-plugin-api</artifactId>
-         <version>3.8.3</version>
-      </dependency>
-      
-		
+
+		<dependency>
+			<groupId>org.apache.maven</groupId>
+			<artifactId>maven-plugin-api</artifactId>
+			<version>3.8.3</version>
+		</dependency>
+
+
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -172,7 +169,7 @@
 			<version>2.41.2</version>
 		</dependency>
 
-		
+
 		<!-- https://mvnrepository.com/artifact/info.cukes/gherkin -->
 		<dependency>
 			<groupId>info.cukes</groupId>
@@ -181,17 +178,7 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!--
-		https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-failsafe-plugin -->
-		<dependency>
-			<groupId>org.apache.maven.plugins</groupId>
-			<artifactId>maven-failsafe-plugin</artifactId>
-			<version>3.2.3</version>
-			<scope>test</scope>
-		</dependency>
 
-
-		
 		<!--**************************************************************************** -->
 
 	</dependencies>
