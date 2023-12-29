@@ -14,7 +14,7 @@ import io.cucumber.junit.CucumberOptions;
 		
 		glue="StepDefinitions",
 		plugin= { "pretty","html:reports/myreport.html", 
-				  "json:target/cucumber.json",
+				  "json:reports/cucumber.json",
 				  "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 				  "rerun:target/rerun.txt",
 				},
