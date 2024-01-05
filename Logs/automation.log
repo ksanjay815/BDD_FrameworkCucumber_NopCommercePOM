@@ -144,3 +144,123 @@
 2023-12-30 00:53:29,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2023-12-30 00:53:29,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2023-12-30 00:53:29,659 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ksanj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-01-02 23:43:17,475  INFO [main] nopCommerce:28 - opening browser
+2024-01-02 23:43:20,430  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-02 23:43:20,458  INFO [main] nopCommerce:39 - opening url
+2024-01-02 23:43:21,987  INFO [main] nopCommerce:45 - entering username & password
+2024-01-02 23:43:24,361  INFO [main] nopCommerce:53 - login successful
+2024-01-02 23:43:45,870  INFO [main] nopCommerce:36 - closing browser
+2024-01-02 23:43:45,890  INFO [main] nopCommerce:28 - opening browser
+2024-01-02 23:43:47,755  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-02 23:43:47,758  INFO [main] nopCommerce:39 - opening url
+2024-01-02 23:43:49,301  INFO [main] nopCommerce:45 - entering username & password
+2024-01-02 23:43:51,403  INFO [main] nopCommerce:53 - login successful
+2024-01-02 23:44:03,424  INFO [main] nopCommerce:36 - closing browser
+2024-01-02 23:44:03,446  INFO [main] nopCommerce:28 - opening browser
+2024-01-02 23:44:05,454  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-02 23:44:05,457  INFO [main] nopCommerce:39 - opening url
+2024-01-02 23:44:07,061  INFO [main] nopCommerce:45 - entering username & password
+2024-01-02 23:44:10,009  INFO [main] nopCommerce:53 - login successful
+2024-01-02 23:44:21,965  INFO [main] nopCommerce:36 - closing browser
+2024-01-02 23:44:24,242 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-01-02 23:44:24,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-01-02 23:44:24,247 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-01-02 23:44:24,249 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-01-02 23:44:24,249 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ksanj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-01-02 23:44:24,571 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-01-02 23:44:24,572 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-01-02 23:44:24,572 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-01-02 23:44:24,572 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-01-02 23:44:24,573 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ksanj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-01-02 23:47:46,983  INFO [main] nopCommerce:28 - opening browser
+2024-01-02 23:47:49,721  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-02 23:47:49,746  INFO [main] nopCommerce:39 - opening url
+2024-01-02 23:47:51,375  INFO [main] nopCommerce:45 - entering username & password
+2024-01-02 23:47:54,316  INFO [main] nopCommerce:53 - login successful
+2024-01-02 23:48:16,167  INFO [main] nopCommerce:36 - closing browser
+2024-01-02 23:48:16,192  INFO [main] nopCommerce:28 - opening browser
+2024-01-02 23:48:18,114  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-02 23:48:18,122  INFO [main] nopCommerce:39 - opening url
+2024-01-02 23:48:19,799  INFO [main] nopCommerce:45 - entering username & password
+2024-01-02 23:48:22,035  INFO [main] nopCommerce:53 - login successful
+2024-01-02 23:48:33,936  INFO [main] nopCommerce:36 - closing browser
+2024-01-02 23:48:33,966  INFO [main] nopCommerce:28 - opening browser
+2024-01-02 23:48:36,136  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-02 23:48:36,136  INFO [main] nopCommerce:39 - opening url
+2024-01-02 23:48:37,881  INFO [main] nopCommerce:45 - entering username & password
+2024-01-02 23:48:40,126  INFO [main] nopCommerce:53 - login successful
+2024-01-02 23:48:51,904  INFO [main] nopCommerce:36 - closing browser
+2024-01-03 05:40:31,684  INFO [main] nopCommerce:28 - opening browser
+2024-01-03 05:40:34,693  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-03 05:40:34,722  INFO [main] nopCommerce:39 - opening url
+2024-01-03 05:40:36,201  INFO [main] nopCommerce:45 - entering username & password
+2024-01-03 05:40:39,124  INFO [main] nopCommerce:53 - login successful
+2024-01-03 05:40:59,823  INFO [main] nopCommerce:36 - closing browser
+2024-01-03 05:40:59,869  INFO [main] nopCommerce:28 - opening browser
+2024-01-03 05:41:01,957  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-03 05:41:01,961  INFO [main] nopCommerce:39 - opening url
+2024-01-03 05:41:03,241  INFO [main] nopCommerce:45 - entering username & password
+2024-01-03 05:41:05,162  INFO [main] nopCommerce:53 - login successful
+2024-01-03 05:41:16,701  INFO [main] nopCommerce:36 - closing browser
+2024-01-03 05:41:16,723  INFO [main] nopCommerce:28 - opening browser
+2024-01-03 05:41:18,765  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-03 05:41:18,768  INFO [main] nopCommerce:39 - opening url
+2024-01-03 05:41:20,024  INFO [main] nopCommerce:45 - entering username & password
+2024-01-03 05:41:21,795  INFO [main] nopCommerce:53 - login successful
+2024-01-03 05:41:33,403  INFO [main] nopCommerce:36 - closing browser
+2024-01-03 05:41:35,672 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-01-03 05:41:35,673 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-01-03 05:41:35,675 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-01-03 05:41:35,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-01-03 05:41:35,677 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ksanj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-01-03 05:41:35,970 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-01-03 05:41:35,971 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-01-03 05:41:35,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-01-03 05:41:35,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-01-03 05:41:35,973 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ksanj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-01-06 01:12:53,338  INFO [main] nopCommerce:28 - opening browser
+2024-01-06 01:12:56,047  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-06 01:12:56,069  INFO [main] nopCommerce:39 - opening url
+2024-01-06 01:12:57,296  INFO [main] nopCommerce:45 - entering username & password
+2024-01-06 01:12:59,176  INFO [main] nopCommerce:53 - login successful
+2024-01-06 01:13:20,514  INFO [main] nopCommerce:36 - closing browser
+2024-01-06 01:13:20,538  INFO [main] nopCommerce:28 - opening browser
+2024-01-06 01:13:22,330  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-06 01:13:22,338  INFO [main] nopCommerce:39 - opening url
+2024-01-06 01:13:23,594  INFO [main] nopCommerce:45 - entering username & password
+2024-01-06 01:13:25,419  INFO [main] nopCommerce:53 - login successful
+2024-01-06 01:13:36,755  INFO [main] nopCommerce:36 - closing browser
+2024-01-06 01:13:36,779  INFO [main] nopCommerce:28 - opening browser
+2024-01-06 01:13:38,432  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-06 01:13:38,441  INFO [main] nopCommerce:39 - opening url
+2024-01-06 01:13:39,743  INFO [main] nopCommerce:45 - entering username & password
+2024-01-06 01:13:41,470  INFO [main] nopCommerce:53 - login successful
+2024-01-06 01:13:52,896  INFO [main] nopCommerce:36 - closing browser
+2024-01-06 01:15:02,587  INFO [main] nopCommerce:28 - opening browser
+2024-01-06 01:15:05,040  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-06 01:15:05,069  INFO [main] nopCommerce:39 - opening url
+2024-01-06 01:15:06,411  INFO [main] nopCommerce:45 - entering username & password
+2024-01-06 01:15:08,294  INFO [main] nopCommerce:53 - login successful
+2024-01-06 01:15:29,610  INFO [main] nopCommerce:36 - closing browser
+2024-01-06 01:15:29,642  INFO [main] nopCommerce:28 - opening browser
+2024-01-06 01:15:31,341  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-06 01:15:31,349  INFO [main] nopCommerce:39 - opening url
+2024-01-06 01:15:32,686  INFO [main] nopCommerce:45 - entering username & password
+2024-01-06 01:15:34,559  INFO [main] nopCommerce:53 - login successful
+2024-01-06 01:15:45,965  INFO [main] nopCommerce:36 - closing browser
+2024-01-06 01:15:45,989  INFO [main] nopCommerce:28 - opening browser
+2024-01-06 01:15:47,685  INFO [main] nopCommerce:33 -  browser launched successfully
+2024-01-06 01:15:47,685  INFO [main] nopCommerce:39 - opening url
+2024-01-06 01:15:48,927  INFO [main] nopCommerce:45 - entering username & password
+2024-01-06 01:15:50,742  INFO [main] nopCommerce:53 - login successful
+2024-01-06 01:16:02,290  INFO [main] nopCommerce:36 - closing browser
+2024-01-06 01:16:04,864 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-01-06 01:16:04,872 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-01-06 01:16:04,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-01-06 01:16:04,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-01-06 01:16:04,874 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ksanj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-01-06 01:16:05,184 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-01-06 01:16:05,184 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-01-06 01:16:05,184 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-01-06 01:16:05,184 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-01-06 01:16:05,192 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ksanj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
